@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Web+Designer+Enthusiast;College+Student;Always%20learning%20new%20things;ARGENTINA&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior developer looking for a job. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>
+<h4 align="center">I am a Junior developer always looking for a proyect. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.<br>
 I’m currently learning <br>
 Portfolio:
 </h4>
